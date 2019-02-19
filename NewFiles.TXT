@@ -1,2 +1,6 @@
 This is a new files in this practice project!
+<<<<<<< HEAD
 This is My private file£¡
+=======
+This file have another users!
+>>>>>>> 8fdb9546bc50d5f6d1d0bc24114ad4b6d18e1b30
